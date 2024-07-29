@@ -40,8 +40,3 @@ List the ready features here:
 ![RegisterPage screenshot](./public/screenshots/Screenshot%20Register.png)
 
 
-
-
-
-## Contact
-Created by [@MobinaJafarian](https://github.com/MobinaJafarian) - feel free to contact me!
